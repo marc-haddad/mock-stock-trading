@@ -5,6 +5,8 @@ This is a flask web app that simulates stock trading with real-time stock prices
 ## Features
 
 * User registration/logging in with password hashing.
+![Login Screen](images/1_login_and_reg_A)
+
 
 * Initial cash balance of 10,000 fake dollars.
 
