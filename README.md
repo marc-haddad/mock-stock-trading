@@ -8,7 +8,7 @@ This is a flask web app that simulates stock trading with real-time stock prices
 
 ![Login Screen](/images/1_login_and_reg_A.png)
 
-![Registration Screen](/images/1_login_and_reg_B.png)
+![Registration Screen](/images/2_login_and_reg_B.png)
 
 * Initial cash balance of 10,000 fake dollars.
 
