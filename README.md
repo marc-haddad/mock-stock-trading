@@ -6,8 +6,8 @@ This is a flask web app that simulates stock trading with real-time stock prices
 
 1. User registration/logging in with password hashing.
 
-  - *Login Screen*
-  ![Login Screen](/images/1_login_and_reg_A.png)
+    - *Login Screen*
+    ![Login Screen](/images/1_login_and_reg_A.png)
 
   - *Registration Screen*
   ![Registration Screen](/images/2_login_and_reg_B.png)
